@@ -1,7 +1,7 @@
 {
   "name": "radio-ops-backend",
   "version": "1.0.0",
-  "description": "Shared backend for the Radio Ops & Emergency Supply Dashboard",
+  "description": "Shared backend for the Radio Ops & Emergency Supply Dashboard, so all users see the same live data instead of separate local copies.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
